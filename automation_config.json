@@ -1,0 +1,24 @@
+{
+  "channel_name": "SleepRelaxAndMeditates",
+  "cycle_delay": 30,
+  "max_cycles": 10,
+  "auto_cleanup": true,
+  "file_size_limit_mb": 100,
+  "supported_image_formats": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".bmp",
+    ".tiff",
+    ".webp"
+  ],
+  "supported_audio_formats": [
+    ".mp3",
+    ".wav",
+    ".m4a",
+    ".aac",
+    ".flac",
+    ".ogg"
+  ]
+}

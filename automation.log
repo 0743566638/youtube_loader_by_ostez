@@ -1,0 +1,145 @@
+2025-08-10 22:13:15,476 - INFO - Configuration saved
+2025-08-10 22:15:03,208 - INFO - Automation started
+2025-08-10 22:15:03,214 - INFO - Automation started for 60 seconds
+2025-08-10 22:15:03,214 - INFO - Starting cycle 1/10
+2025-08-10 22:15:03,214 - INFO - Generating video for channel 'SleepRelaxAndMeditate' with duration 60 seconds
+2025-08-10 22:15:18,124 - ERROR - Error during automation: 'NoneType' object has no attribute 'get_frame'
+2025-08-10 22:15:25,685 - INFO - Automation stopped
+2025-08-10 22:42:33,459 - INFO - Automation started
+2025-08-10 22:42:33,461 - INFO - Automation started for 60 seconds
+2025-08-10 22:42:33,461 - INFO - Starting cycle 1/10
+2025-08-10 22:42:33,547 - INFO - Generating video for channel 'SleepRelaxAndMeditate' with duration 60 seconds
+2025-08-10 22:42:36,131 - ERROR - Error during automation: 'NoneType' object has no attribute 'get_frame'
+2025-08-10 22:42:39,377 - INFO - Automation stopped
+2025-08-10 23:35:02,051 - INFO - Automation started
+2025-08-10 23:35:02,054 - INFO - Automation started for 60 seconds
+2025-08-10 23:35:02,054 - INFO - Starting cycle 1/10
+2025-08-10 23:35:02,055 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 60 seconds
+2025-08-10 23:35:04,574 - ERROR - Error during automation: 'NoneType' object has no attribute 'get_frame'
+2025-08-10 23:35:08,340 - INFO - Automation stopped
+2025-08-10 23:35:12,012 - INFO - Automation started
+2025-08-10 23:35:12,040 - INFO - Automation started for 60 seconds
+2025-08-10 23:35:12,040 - INFO - Starting cycle 1/10
+2025-08-10 23:35:12,043 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 60 seconds
+2025-08-10 23:35:15,252 - ERROR - Error during automation: 'NoneType' object has no attribute 'get_frame'
+2025-08-10 23:35:20,467 - INFO - Automation stopped
+2025-08-10 23:40:46,867 - INFO - Automation started
+2025-08-10 23:40:46,869 - INFO - Automation started for 60 seconds
+2025-08-10 23:40:46,869 - INFO - Starting cycle 1/10
+2025-08-10 23:40:46,869 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 60 seconds
+2025-08-10 23:40:50,272 - ERROR - Error during automation: 'NoneType' object has no attribute 'get_frame'
+2025-08-10 23:40:53,261 - INFO - Automation stopped
+2025-08-10 23:50:19,861 - INFO - Automation started
+2025-08-10 23:50:20,400 - INFO - Automation started for 300 seconds
+2025-08-10 23:50:20,400 - INFO - Starting cycle 1/10
+2025-08-10 23:50:20,401 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-10 23:50:38,473 - ERROR - Error during automation: 'NoneType' object has no attribute 'get_frame'
+2025-08-10 23:50:41,937 - INFO - Automation stopped
+2025-08-10 23:54:51,729 - INFO - Automation started
+2025-08-10 23:54:51,731 - INFO - Automation started for 300 seconds
+2025-08-10 23:54:51,732 - INFO - Starting cycle 1/10
+2025-08-10 23:54:51,732 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-10 23:55:16,954 - ERROR - Error during automation: 'NoneType' object has no attribute 'get_frame'
+2025-08-10 23:58:24,429 - INFO - Application interrupted by user
+2025-08-10 23:58:51,305 - INFO - Automation started
+2025-08-10 23:58:51,306 - INFO - Automation started for 300 seconds
+2025-08-10 23:58:51,306 - INFO - Starting cycle 1/10
+2025-08-10 23:58:51,307 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-10 23:59:09,210 - ERROR - Error during automation: 'NoneType' object has no attribute 'get_frame'
+2025-08-10 23:59:19,421 - INFO - Automation stopped
+2025-08-11 06:31:12,242 - INFO - Automation started
+2025-08-11 06:31:12,254 - INFO - Automation started for 300 seconds
+2025-08-11 06:31:12,254 - INFO - Starting cycle 1/10
+2025-08-11 06:31:12,255 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-11 06:31:42,207 - ERROR - Error during automation: ffmpeg error (see stderr output for detail)
+2025-08-11 06:31:53,840 - INFO - Automation stopped
+2025-08-11 06:33:49,489 - INFO - Automation started
+2025-08-11 06:33:49,490 - INFO - Automation started for 300 seconds
+2025-08-11 06:33:49,491 - INFO - Starting cycle 1/10
+2025-08-11 06:33:49,491 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-11 06:34:06,820 - ERROR - Error during automation: ffmpeg error (see stderr output for detail)
+2025-08-11 06:34:09,105 - INFO - Automation stopped
+2025-08-11 06:35:47,487 - INFO - Application interrupted by user
+2025-08-11 06:36:05,760 - INFO - Automation started
+2025-08-11 06:36:05,762 - INFO - Automation started for 300 seconds
+2025-08-11 06:36:05,763 - INFO - Starting cycle 1/10
+2025-08-11 06:36:05,763 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-11 06:37:01,271 - INFO - Starting automation tasks...
+2025-08-11 06:37:24,539 - INFO - "GET /?state=ymSalipqSX4uBdDsQO8sVtXRFMc7MS&code=4/0AVMBsJjmAJgt0hmkBDikREjEGxwcm1CqwFSnKB4S6GP828QUio6g6CrWo5o1cuVfoJjOaA&scope=https://www.googleapis.com/auth/youtube.upload HTTP/1.1" 200 65
+2025-08-11 06:37:25,545 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-11 06:37:25,640 - ERROR - Cycle 1 failed
+2025-08-11 06:38:05,776 - INFO - Starting cycle 2/10
+2025-08-11 06:38:05,777 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-11 06:38:21,440 - INFO - Automation stopped
+2025-08-11 06:38:21,441 - INFO - Automation stopped by user
+2025-08-11 06:38:34,459 - INFO - Application interrupted by user
+2025-08-11 06:42:56,296 - INFO - Automation started
+2025-08-11 06:42:56,297 - INFO - Automation started for 300 seconds
+2025-08-11 06:42:56,298 - INFO - Starting cycle 1/10
+2025-08-11 06:42:56,298 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-11 06:43:57,871 - INFO - Starting automation tasks...
+2025-08-11 06:44:14,350 - INFO - "GET /?state=JMiyDzOWVM0STZjD0QiSTrD70Y5my6&code=4/0AVMBsJj5rInAC9XIf6dtLXWRomqVjw8e9hfJirvjmiva6ACOsyrSK6QNjvdGP0PdyJ55fQ&scope=https://www.googleapis.com/auth/youtube.upload HTTP/1.1" 200 65
+2025-08-11 06:44:14,980 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-11 06:44:14,994 - ERROR - Cycle 1 failed
+2025-08-11 06:44:50,862 - INFO - Starting cycle 2/10
+2025-08-11 06:44:50,862 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-11 06:44:58,846 - INFO - Automation stopped
+2025-08-11 06:44:58,847 - INFO - Automation stopped by user
+2025-08-11 06:45:58,545 - INFO - Automation stopped
+2025-08-11 06:52:41,150 - INFO - Automation started
+2025-08-11 06:52:41,152 - INFO - Automation started for 300 seconds
+2025-08-11 06:52:41,152 - INFO - Starting cycle 1/10
+2025-08-11 06:52:41,153 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-11 06:53:45,564 - INFO - Starting automation tasks...
+2025-08-11 06:54:03,738 - INFO - "GET /?state=C3OrWUrF5u6YcHH4dLYwEXZG98kiXs&code=4/0AVMBsJig-UEIbfvi6UJnwrXvmIQHlSr7WqiamLBuCldVm8WONfQrGUZ5gkUUnoxMdPglww&scope=https://www.googleapis.com/auth/youtube.upload HTTP/1.1" 200 65
+2025-08-11 06:54:04,353 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-11 06:57:42,177 - INFO - Cycle 1 completed successfully
+2025-08-11 06:58:12,418 - INFO - Starting cycle 2/10
+2025-08-11 06:58:12,418 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-11 06:59:09,400 - INFO - Starting automation tasks...
+2025-08-11 06:59:54,246 - INFO - "GET /?state=kQ2O117ffCPxQC8uSLXGvAACdnP8aw&code=4/0AVMBsJhbXwu_69MVaZcHp7iX3eJwGYUT-4lRhA8CkIkZjsSzGgXGmAuWUDLlrYEyUvZnzA&scope=https://www.googleapis.com/auth/youtube.upload HTTP/1.1" 200 65
+2025-08-11 06:59:54,813 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-11 07:03:35,206 - INFO - Cycle 2 completed successfully
+2025-08-11 07:04:05,460 - INFO - Starting cycle 3/10
+2025-08-11 07:04:05,470 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 300 seconds
+2025-08-11 07:05:16,560 - INFO - Starting automation tasks...
+2025-08-11 07:05:24,060 - INFO - Automation stopped
+2025-08-11 07:05:24,061 - INFO - Automation stopped by user
+2025-08-11 07:20:12,867 - INFO - Automation started
+2025-08-11 07:20:12,868 - INFO - Automation started for 60 seconds
+2025-08-11 07:20:12,868 - INFO - Starting cycle 1/10
+2025-08-11 07:20:12,869 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 60 seconds
+2025-08-11 07:20:46,211 - INFO - Starting automation tasks...
+2025-08-11 07:20:46,330 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-11 07:22:37,047 - INFO - Cycle 1 completed successfully
+2025-08-11 07:23:07,315 - INFO - Starting cycle 2/10
+2025-08-11 07:23:07,315 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 60 seconds
+2025-08-11 07:23:28,367 - INFO - Starting automation tasks...
+2025-08-11 07:23:28,373 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-11 07:24:36,875 - INFO - Cycle 2 completed successfully
+2025-08-11 07:25:07,125 - INFO - Starting cycle 3/10
+2025-08-11 07:25:07,125 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 60 seconds
+2025-08-11 07:25:25,090 - INFO - Starting automation tasks...
+2025-08-11 07:25:25,099 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-11 07:26:32,259 - INFO - Cycle 3 completed successfully
+2025-08-11 07:27:02,536 - INFO - Starting cycle 4/10
+2025-08-11 07:27:02,536 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 60 seconds
+2025-08-11 07:27:24,927 - INFO - Starting automation tasks...
+2025-08-11 07:27:24,936 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-11 07:28:48,716 - INFO - Cycle 4 completed successfully
+2025-08-11 07:29:18,956 - INFO - Starting cycle 5/10
+2025-08-11 07:29:18,958 - INFO - Generating video for channel 'SleepRelaxAndMeditates' with duration 60 seconds
+2025-08-11 07:29:37,138 - INFO - Starting automation tasks...
+2025-08-11 07:29:37,144 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-11 07:30:15,520 - INFO - Automation stopped
+2025-08-11 07:30:15,521 - INFO - Automation stopped by user
+2025-08-11 07:30:38,347 - INFO - Cycle 5 completed successfully
+2025-08-11 07:30:38,347 - INFO - Automation stopped
+2025-08-11 07:31:39,808 - INFO - Cleaned up temp file: temp_audio_20250810_221503.mp3
+2025-08-11 07:31:39,810 - INFO - Cleaned up temp file: temp_audio_20250810_224233.mp3
+2025-08-11 07:31:39,811 - INFO - Cleaned up temp file: temp_audio_20250810_233502.mp3
+2025-08-11 07:31:39,812 - INFO - Cleaned up temp file: temp_audio_20250810_233512.mp3
+2025-08-11 07:31:39,813 - INFO - Cleaned up temp file: temp_audio_20250810_234046.mp3
+2025-08-11 07:31:39,814 - INFO - Cleaned up temp file: temp_audio_20250810_235034.mp3
+2025-08-11 07:31:39,816 - INFO - Cleaned up temp file: temp_audio_20250811_063805.aac
+2025-08-11 07:31:39,817 - INFO - Cleaned up temp file: temp_video_20250811_063805.mp4
